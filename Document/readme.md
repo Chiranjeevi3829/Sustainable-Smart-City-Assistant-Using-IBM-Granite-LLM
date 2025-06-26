@@ -1,30 +1,33 @@
 project report in pdf
-# Sustainable Smart City Assistant using IBM Granite LLM
+# Sustainable Smart City Assistant using AI
 
 ## Project Overview
-This project uses IBM's Granite Large Language Model to build a smart city assistant that helps citizens with information, services, and queries in real-time.
+This project is a simple Smart City Assistant prototype that helps citizens with basic information like traffic updates, water saving tips, energy suggestions, and air quality awareness.
+
+We simulated the assistant using Python and Google Colab as IBM Granite LLM access was not available.
 
 ## Features
-- AI-powered conversational assistant
-- Sustainable smart city focus
-- Uses IBM Cloud and Watson AI
-- Provides quick answers to city-related queries
+- AI-based conversational assistant (Simulated)
+- Focus on sustainable smart city solutions
+- Provides responses for traffic, water saving, energy tips, and air quality
 
 ## Technologies Used
-- IBM Granite LLM
-- IBM Watson
-- IBM Cloud
-- Python / Node.js (as applicable)
+- Python
+- Google Colab (for running the project)
+- GitHub (for hosting project files)
 
 ## How to Run
-1. Clone the repository
-2. Setup IBM Cloud account
-3. Configure API keys in .env file
-4. Run the application
+1. Open the Project Files folder
+2. Run the .ipynb file using Google Colab
+3. Ask sample questions:
+   - "How's the traffic today?"
+   - "Give me water saving tips"
+   - "Tell me today's air quality"
+4. The assistant replies with basic simulated answers
 
 ## Contributors
 - Your Name
 - Team Members Names
 
 ## License
-This project is for educational purposes only.
+This project is for educational and demonstration purposes only.
